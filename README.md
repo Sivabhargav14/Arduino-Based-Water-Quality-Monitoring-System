@@ -34,7 +34,9 @@ Laptop with Arduino IDE
 
 ## Prototype Demo Video
 
-[▶ Watch the full prototype video](https://www.youtube.com/watch?v=ZqmXIzeHAs)
+[▶ Watch the full prototype video](https://www.youtube.com/watch?v=ZqmXIzeHlAs)
+
+
 
 
 
