@@ -17,11 +17,11 @@ The proposed system would collect information such as pH, temperature, and other
 In Class 11, I decided to turn the idea into a physical prototype. I independently purchased the components and built the prototype using Arduino, with guidance and advice from my Physics teacher.
 
 ## Components Used
-Arduino Uno
-pH glass rod
-DS18B20 temperature sensor
-Breadboard
-Jumper wires
+Arduino Uno,
+pH glass rod,
+DS18B20 temperature sensor,
+Breadboard,
+Jumper wires,
 Laptop with Arduino IDE
 
 ## Working
