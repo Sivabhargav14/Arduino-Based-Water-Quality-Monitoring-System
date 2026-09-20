@@ -21,8 +21,8 @@ Arduino Uno,
 pH glass rod,
 DS18B20 temperature sensor,
 Breadboard,
-Jumper wires,
-Laptop with Arduino IDE
+Jumper wires, and
+Laptop with Arduino IDE.
 
 ## Working
 1) The pH glass rod measures the pH of the water sample. 
