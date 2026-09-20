@@ -36,6 +36,8 @@ Laptop with Arduino IDE
 
 [▶ Watch the full prototype video](https://www.youtube.com/watch?v=ZqmXIzeHlAs)
 
+I hope to build upon this project in the future by adding more water-quality sensors, IoT-based remote monitoring, and solar power to enable continuous and sustainable monitoring.
+
 
 
 
